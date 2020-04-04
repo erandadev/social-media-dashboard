@@ -1,0 +1,16 @@
+{
+  "name": "social-media-dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Eranda",
+  "license": "ISC",
+  "homepage": "https://github.io/social-media-dashboard",
+  
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
