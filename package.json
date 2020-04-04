@@ -8,7 +8,7 @@
   },
   "author": "Eranda",
   "license": "ISC",
-  "homepage": "https://github.io/social-media-dashboard",
+  "homepage": "https://yeranda.github.io/social-media-dashboard",
   
   "dependencies": {
     "gh-pages": "^2.2.0"
